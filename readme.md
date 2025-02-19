@@ -1,6 +1,6 @@
 # Kaggle Competition Starter Notebook
 
-Welcome to our **2025 Kaggle Competition of AI Applied to Medicine at UC3M** repository! 
+Welcome to our **2025 Kaggle Competition of AI Applied to Medicine at UC3M** repository! :fast_forward:
 
 This GitHub repository contains the **starter Jupyter Notebook** designed to help you get up and running with the following:
 
